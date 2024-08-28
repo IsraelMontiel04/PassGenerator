@@ -169,9 +169,10 @@ footer{
     color: #ffebdc;
     margin-top: 2rem;
     font-size: .8rem;
-    padding: .8rem;
+    padding: 1rem;
     text-align: center;
-    line-height: 1.6;
+    width: 100%;
+    line-height: 1.5;
 }
 
 #error{
@@ -208,7 +209,7 @@ footer{
     .contenedor-generador{
         display: flex;
         flex-direction: column;
-        width: 80%;
+        width: 60%;
     }
 
     .contenedor-caracteres{
